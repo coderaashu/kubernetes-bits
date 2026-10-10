@@ -1,0 +1,7 @@
+kind: Course
+apiVersion: aashizrockerz.com/v1
+metadata:
+  name: kubernetes-1a
+spec:
+  name: Full Cloud DevoPs
+  roadmap: Learning in Oct
